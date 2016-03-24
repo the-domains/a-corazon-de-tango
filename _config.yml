@@ -1,7 +1,7 @@
 name: A corazon de tango
 favicon: null
-layout_spectrum: 0.23868040833622217
-typography_spectrum: 0.4719248777255416
+layout_spectrum: 1
+typography_spectrum: 0.77828
 cta:
   domain: null
   bucket: null
